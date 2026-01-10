@@ -2,6 +2,16 @@
     {
         "id": 1,
         "title": "Front-End Software Engineer",
+        "company": "Fulltek",
+        "companyUrl": "https://www.fulltek.co/",
+        "startDate": "2025",
+        "endDate": "Present",
+        "current": true,
+        "description": "I work as a Frontend Developer using React on projects that serve erp and crm systems for huge and medium businesses."
+    },
+    {
+        "id": 2,
+        "title": "Front-End Software Engineer",
         "company": "Nuqayah",
         "companyUrl": "https://nuqayah.com/",
         "startDate": "2025",
@@ -10,7 +20,7 @@
         "description": "I work as a Frontend Developer using Svelte on projects that serve Islam and Muslims, for example QuraanCore, a tool for comparing Quran translations."
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Front-End Software Engineer",
         "company": "X-Tech",
         "companyUrl": "https://expotech.online/our-team/",
@@ -20,7 +30,7 @@
         "description": "I was the leader of Front-End Team in the company, and i undertook many projects, including the Education Platform and Dashboard to manage a huge commercial site in Morocco and other projects"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Full-Stack Software Engineer",
         "company": "Freelancer",
         "companyUrl": null,

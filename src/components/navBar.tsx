@@ -83,7 +83,7 @@ const NavBar = () => {
                         }
                     </button>
                 </div>
-                <div className="h-1.5 w-1.5 rounded-full bg-[#5fb9b0] me-2 shadow-[0_0_12px_4px_#5fb9b0] animate-pulse" />
+                <div className="h-1.5 w-1.5 rounded-full bg-[#b95f5f] me-2 shadow-[0_0_12px_4px_#b95f5f] animate-pulse" />
 
             </nav>
         </div>

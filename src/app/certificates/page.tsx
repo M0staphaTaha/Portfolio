@@ -45,6 +45,20 @@ const Certificates = () => {
             link: "/",
             variant: "left"
         },
+        {
+            title: "Database From Hussien Nasser",
+            issuer: "Udemy",
+            year: "2025",
+            link: "/",
+            variant: "right"
+        },
+        {
+            title: "Software Engineering From Hassan Ibrahim",
+            issuer: "Udemy",
+            year: "2025",
+            link: "/",
+            variant: "left"
+        },
     ];
 
     const certificateVariant = (direction: string) => ({
